@@ -1,1 +1,16 @@
-Empty Ruby Project
+= Empty Ruby Project
+
+An empty Ruby project but with the bare essentials.
+
+NOTE: This is a RubyGem project. This project may need to be renamed to clarify
+this. Making an essential application project may come later, but for now, just
+gems.
+
+This is *my* empty Ruby (gem) project, so you will see some decisions like
+my use of "Bacon":http://chneukirchen.org/darcs/darcsweb.cgi?r=bacon;a=summary
+for writing my specs that you may not agree with. That's cool, but I use it.
+
+You're welcome to either fork my project, change it in your instance, or just
+try it out. The choice is completely yours.
+
+Certainly, contribute back anything you find to be fantastically beneficial!
